@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MSTR-MW
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on .?
+- 🌱 I’m currently learning phyton and c++
+- 💞️ I’m looking to collaborate on another 
 - 📫 How to reach me 
 - 😄 Pronouns: MW
 - ⚡ Fun fact: IM DON'T KNOW 
